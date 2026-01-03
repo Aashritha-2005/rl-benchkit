@@ -1,0 +1,6 @@
+lr: 0.0003
+gamma: 0.99
+clip_eps: 0.2
+epochs: 10
+episodes: 1000
+max_steps: 1000
